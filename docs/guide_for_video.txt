@@ -1,0 +1,11 @@
+Roteiro do Pitch (máx 4 minutos)
+
+0:00 - 0:20 - Apresentação rápida (seu nome + objetivo do projeto)
+0:20 - 0:50 - Mostrar Kanban no GitHub e explicar metodologia (Kanban + sprints)
+0:50 - 1:40 - Demonstrar o sistema rodando (criar uma tarefa, editar, marcar como done)
+1:40 - 2:30 - Explicar os testes automatizados (mostrar pytest passando)
+2:30 - 3:15 - Mostrar GitHub Actions (workflow) rodando e verde
+3:15 - 3:45 - Explicar mudança de escopo (priority) e como foi gerenciada no Kanban
+3:45 - 4:00 - Reflexão final e obrigado
+
+Dica: grave a tela do seu navegador e mostre o terminal quando rodar os testes.
